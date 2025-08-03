@@ -1,0 +1,10 @@
+{
+    "webdriver_path": "./utils/chromedriver",
+    "openai_model": "gpt-4o-mini",
+    "base_directory": "/Users/omarsaldanna/webshell",
+    "browser_port": 9222,
+    "browser_user_data": "./utils/browser_data",
+    "default_timeout": 10,
+    "headless": false,
+    "window_size": [1920, 1080]
+}
